@@ -6,6 +6,7 @@ import { ArrowRight, Code2, Layout, Palette, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { BackgroundAnimation } from "@/components/background-animation";
 import { SiteHeader } from "@/components/site-header";
+import Footer from "@/components/site-footer";
 
 const features = [
   {
@@ -87,6 +88,7 @@ export default function Home() {
           </motion.div>
         </div>
       </div>
+      <Footer />
     </main>
   );
 }

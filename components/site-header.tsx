@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import { Home, Layout, FileText } from "lucide-react";
+import Image from "next/image";
 
 const navigation = [
   { name: "Home", href: "/", icon: Home },
@@ -20,7 +21,7 @@ export function SiteHeader() {
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="font-bold text-xl">
-            Coming Soon Framework
+             Maintenance Channel            
           </Link>
           
           <nav className="flex items-center gap-6">

@@ -36,10 +36,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/coming-soon-framework.git
+git clone https://github.com/maidabarrientos/maintenancechannelframework.git
 
 # Navigate to the project
-cd coming-soon-framework
+cd maintenancechannelframework
 
 # Install dependencies
 npm install
