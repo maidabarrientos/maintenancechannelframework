@@ -7,7 +7,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { SiteHeader } from "@/components/site-header";
 
 const installCode = `# Clone the repository
-git clone https://github.com/yourusername/coming-soon-framework.git
+git clone https://github.com/maidabarrientos/maintenancechannelframework.git
 
 # Install dependencies
 cd coming-soon-framework
